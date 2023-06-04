@@ -15,7 +15,7 @@ public:
                 return v[n/2];
             }
             else{
-                return double((v[n/2] + v[n/2-1]))/2;
+                return ((v[n/2] + v[n/2-1]))/2;
             
         }
         
