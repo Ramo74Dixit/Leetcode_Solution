@@ -17,7 +17,7 @@ class Solution{
         int i=array1.size();
         int j=array2.size();
         int l=i+j;
-        double arr3[i+j];
+        int arr3[i+j];
         for(int k=0;k<i;k++)
         {
             arr3[k]=array1[k];
